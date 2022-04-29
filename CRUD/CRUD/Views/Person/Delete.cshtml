@@ -1,0 +1,21 @@
+﻿@model int
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+
+<h2> Are you sure you want to delete ?</h2>
+
+<form method="post" asp-controller="Person" asp-action="DeletePerson">
+    <input type="hidden" value="@Model" name="id" />
+    <button type="submit" class="btn btn-danger">Yes!</button>
+    <a asp-controller="Person" asp-action="List" class="btn btn-default">Cancel</a>
+    @{
+        if (!ViewContext.ModelState.IsValid)
+        {
+            <div asp-validation-summary="All" class="alert alert-danger"></div>
+        }
+    }
+</form>

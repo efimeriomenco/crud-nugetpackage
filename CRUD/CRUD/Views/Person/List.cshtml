@@ -1,0 +1,29 @@
+﻿@model List<CRUD.Repository.Model.Person>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<p>
+    <a class="btn btn-warning" asp-action="Create">Create New</a>
+</p>
+<form class="form-inline my-2 my-lg-0" method="get" asp-controller="Person" asp-action="List">
+    <input id="search-bar" class="form-control mr-sm-2" type="text" placeholder="Search" name="searchValue">
+    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+</form>
+<table class="table w-100">
+    <thead>
+    <td class="font-weight-bold">Firstname:</td>
+    <td class="font-weight-bold">Lastname:</td>
+    <td class="font-weight-bold">Age:</td>
+    </thead>
+    <tbody>
+    @foreach (var person in Model)
+    {
+        <partial name="_PersonCard" model="person" />
+    }
+    </tbody>
+</table>
+
+
+  

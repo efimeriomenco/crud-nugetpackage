@@ -1,0 +1,20 @@
+﻿@model CRUD.Repository.Model.Person
+
+
+
+<tr>
+    <td>
+        @Model.Firstname
+    </td>
+    <td>
+        @Model.Lastname
+    </td>
+    <td>
+        @Model.Age
+    </td>
+    <td>
+        <a asp-action="Edit" asp-route-id="@Model.Id"><i class="fas fa-edit h3"></i></a>
+        <a asp-action="Details" asp-route-id="@Model.Id"><i class="fas fa-eye h3"></i></a>
+        <a asp-action="Delete" asp-route-id="@Model.Id"><i class="fas fa-trash h3"></i></a>
+    </td>
+</tr>

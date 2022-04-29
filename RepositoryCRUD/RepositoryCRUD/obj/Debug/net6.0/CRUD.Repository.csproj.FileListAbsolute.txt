@@ -1,0 +1,14 @@
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\bin\Debug\net6.0\CRUD.Repository.deps.json
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\bin\Debug\net6.0\CRUD.Repository.runtimeconfig.json
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\bin\Debug\net6.0\CRUD.Repository.dll
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\bin\Debug\net6.0\CRUD.Repository.pdb
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\CRUD.Repository.csproj.AssemblyReference.cache
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\CRUD.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\CRUD.Repository.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\CRUD.Repository.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\CRUD.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\CRUD.Repository.dll
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\refint\CRUD.Repository.dll
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\CRUD.Repository.pdb
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\CRUD.Repository.genruntimeconfig.cache
+C:\Users\Cristi-PC\source\repos\RepositoryCRUD\RepositoryCRUD\obj\Debug\net6.0\ref\CRUD.Repository.dll
